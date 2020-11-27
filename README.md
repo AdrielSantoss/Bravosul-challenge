@@ -14,6 +14,8 @@ para executar o projeto, será necessário:
 - Para iniciar, na pasta do projeto aplique o comando: `npm start`
 - Após o processo de inicialização do Angular, o sistema estará disponível em: `https://localhost:4200`
 
+![start](https://user-images.githubusercontent.com/64885646/100449381-91898780-3092-11eb-9353-ba87543b3b07.png)
+
 # Login:
 - Email: `dev@bravosul.com.br`
 - Senha:  `Brvsl@2020`
