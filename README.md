@@ -25,7 +25,7 @@ para executar o projeto, será necessário:
 | Recurso | Link |
 | ------ | ------ |
 | Node JS | https://nodejs.org/en/ |
-| Angular JS | https://firebase.google.com/docs/auth/?authuser=0 |
-| Bootstrap | https://firebase.google.com/docs/firestore/?authuser=0 |
+| Angular JS | https://angular.io/ |
+| Bootstrap | https://getbootstrap.com/ |
 | Material | https://material.angular.io/ |
 | Materialize | https://materializecss.com/ |
