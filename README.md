@@ -17,6 +17,8 @@ para executar o projeto, será necessário:
 - Email: `dev@bravosul.com.br`
 - Senha:  `Brvsl@2020`
 
+# Recursos/Tecnologias:
+
 | Recurso | Link |
 | ------ | ------ |
 | Node JS | https://nodejs.org/en/ |
