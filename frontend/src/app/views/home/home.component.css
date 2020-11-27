@@ -19,8 +19,19 @@ img{
 }
 .cards{
     display: flex;
+    width: 85%;
+    justify-content: center;
     position: fixed;
+}
+.cards-wrapper{
+    margin-left: auto;
+    margin-right: auto;
 }
 .card-text-title{
     font-size: 18px;;
+}
+@media(max-width: 500px){
+    .cards{
+        display: none;
+    }
 }

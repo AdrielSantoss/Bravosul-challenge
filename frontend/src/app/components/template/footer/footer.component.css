@@ -1,18 +1,24 @@
 .footer {
     position: fixed;
-    bottom: 55px;
-    right: -15.5px;
+    bottom: 0px;
+    width: 100%;
+    height: 60px;
+    right: 0px;
     display: flex;
     justify-content: flex-end;
-    background-color: white;
+    background-color: rgb(233, 233, 233);
+
+}
+.footer-info{
+    position: absolute;
+    font-size: 16px;
+    bottom: 0px;
 }
 
-.info-footer{
-    position: absolute;
-    bottom: -55px;
-    right: 50px;
-    font-size: 15px;
-    color: white
+.footer svg{
+    width: auto;
 }
+
+
 
 
