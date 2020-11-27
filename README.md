@@ -25,4 +25,4 @@ para executar o projeto, será necessário:
 | Angular JS | https://firebase.google.com/docs/auth/?authuser=0 |
 | Bootstrap | https://firebase.google.com/docs/firestore/?authuser=0 |
 | Material | https://material.angular.io/ |
-| Materialize | https://getbootstrap.com/ |
+| Materialize | https://materializecss.com/ |
