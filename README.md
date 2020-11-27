@@ -5,9 +5,15 @@ Projeto **CRUD**, de cadastro de produtos. Projeto de desafio front-end da Bravo
 
 
 # Requisitos: 
-para executar o projeto, será necessário instalar: 
-- NodeJS
-- Dependências do projeto: `npm install ou yarn install`
+para executar o projeto, será necessário: 
+- Instalar NodeJS
+- Instalar Dependências do projeto, na pasta do projeto: `npm install ou yarn install`
 
 # Inicialização:
-- Iniciar frontend: `npm start`
+- Para iniciar, na pasta do projeto aplique o comando: `npm start`
+- Após o processo de inicialização do Angular, o sistema estará disponível em: `https://localhost:4200`
+
+# Login:
+- Email: `dev@bravosul.com.br`
+- Senha:  `Brvsl@2020`
+
