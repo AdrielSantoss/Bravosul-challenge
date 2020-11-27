@@ -3,6 +3,7 @@ Projeto **CRUD**, de cadastro de produtos. Projeto de desafio front-end da Bravo
 
 # Projeto: 
 
+![Front-end challenge](https://uploaddeimagens.com.br/imagens/aF0_Gz0)
 
 # Requisitos: 
 para executar o projeto, será necessário: 
