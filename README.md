@@ -7,6 +7,7 @@ Projeto **CRUD**, de cadastro de produtos. Projeto de desafio front-end da Bravo
 para executar o projeto, será necessário: 
 - Instalar NodeJS
 - Instalar Dependências do projeto, na pasta do projeto: `npm install ou yarn install`
+
 ![install](https://user-images.githubusercontent.com/64885646/100449062-0ad4aa80-3092-11eb-8447-583bdacc622c.png)
 
 # Inicialização:
