@@ -1,7 +1,7 @@
 # Descrição: 
 Projeto **CRUD**, de cadastro de produtos. Projeto de desafio front-end da Bravosul.
 
-![system](https://user-images.githubusercontent.com/64885646/100448276-cdbbe880-3090-11eb-8a07-cb8317ebc3d1.png))
+![system](https://user-images.githubusercontent.com/64885646/100448276-cdbbe880-3090-11eb-8a07-cb8317ebc3d1.png)
 
 # Requisitos: 
 para executar o projeto, será necessário: 
