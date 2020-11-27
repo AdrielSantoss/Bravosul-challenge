@@ -1,0 +1,18 @@
+.footer {
+    position: fixed;
+    bottom: 55px;
+    right: -15.5px;
+    display: flex;
+    justify-content: flex-end;
+    background-color: white;
+}
+
+.info-footer{
+    position: absolute;
+    bottom: -55px;
+    right: 50px;
+    font-size: 15px;
+    color: white
+}
+
+
