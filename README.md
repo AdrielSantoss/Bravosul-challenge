@@ -17,3 +17,10 @@ para executar o projeto, será necessário:
 - Email: `dev@bravosul.com.br`
 - Senha:  `Brvsl@2020`
 
+| Recurso | Link |
+| ------ | ------ |
+| Node JS | https://nodejs.org/en/ |
+| Angular JS | https://firebase.google.com/docs/auth/?authuser=0 |
+| Bootstrap | https://firebase.google.com/docs/firestore/?authuser=0 |
+| Material | https://material.angular.io/ |
+| Materialize | https://getbootstrap.com/ |
